@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "806103876935",
+    "project_id": "powermart-a6422",
+    "storage_bucket": "powermart-a6422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806103876935:android:2cc83b4f173cb0238c3862",
+        "android_client_info": {
+          "package_name": "lk.zeamac.app.powermart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806103876935-2jqgljtldk045t7u0ba3e7ltor2o09tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lk.zeamac.app.powermart",
+            "certificate_hash": "899d702120d61e73c4de8a562a8fbd43aca6308a"
+          }
+        },
+        {
+          "client_id": "806103876935-0nmd5ec0jj4ga1net8se52751tkcamlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIpN6VX84xcJdauZCAIl9z-CoyFFMcFJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806103876935-0nmd5ec0jj4ga1net8se52751tkcamlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
